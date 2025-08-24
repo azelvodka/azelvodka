@@ -3,14 +3,14 @@ I am a BSIT Student at Laguna Polytechnic University, passionate about learning 
 
 My goal is to learn and improve in Python, SQL, and Web Development, and create personal projects to apply my knowledge.
 
-Skill:
+Skill
 - Beginner in Python
 - Basic knowledge of SQL
 - Learning Flask framework
 - Designing
 
-  Contact:
-  azel.vodka@gmail.com
+Contact
+Email: azel.vodka@gmail.com
 
 
 <!--
