@@ -1,4 +1,4 @@
-## Hi, I'm Carlo Vilanueva
+## Hi, I'm Carlo Villanueva
 I am a BSIT Student at Laguna Polytechnic University, passionate about learning programming. Currently exploring different technologies to build my skills and gain experience in the IT field
 
 My goal is to learn and improve in Python, SQL, and Web Development, and create personal projects to apply my knowledge.
